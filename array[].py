@@ -19,3 +19,9 @@ for d in arr:
     e += 1
 
 print(arr.index(c))
+
+for f in arr:
+    if f >= c:
+        print(f, "greater", c)
+    else:
+        print(f, "small", c)
