@@ -25,6 +25,3 @@ for f in arr:
         print(f, "greater", c)
     else:
         print(f, "small", c)
-
-else:
-    print("equal")
