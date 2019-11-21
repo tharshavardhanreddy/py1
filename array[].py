@@ -17,3 +17,5 @@ for d in arr:
         print(e)
         break
     e += 1
+
+print(arr.index(c))
